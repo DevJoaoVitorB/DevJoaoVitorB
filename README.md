@@ -1,19 +1,34 @@
-## Hi, Developers :)
-
-Cursando **Tecnólogo em Analise e Desenvolvimento de Sistemas** na Instituição de Ensino IFRN CNAT. Estou no meu 2° Periodo de curso e possuo algumas habilidades de **Programação** e **Desenvolvimento Web**.
-- 👨🏻‍🎓 Estudante Universitário
-- 👨🏻‍💻 Aspirante a Desenvolvedor
-- 🎮 Fã de Jogos e futuramente desenvolvedor de alguns!
-- 🎨 Criativo para o desenvolvimento de novos projetos
-- 💻 Atualmente Focado em:
-<div style="display: inline">
-  <img height=100 width=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-  <img height=100 width=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-  <img height=100 width=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
-  <img height=100 width=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+<div>
+  <h1 align="center">Hi, I'm João Vitor Bezerra</h1>
+  <p align="left">I'm studying on the second semester in course <strong><em>Technology in Analysis and Development Systems</em></strong> at IFRN CNAT, Federal Institute of Education, Science and Technology of Rio Grande do Norte Natal Central. I have some skills in <strong><em>Programming</em></strong> and <strong><em>Web Development<strong><em>.</p>
 </div>
 
-### Você pode me Encontra em:
-<a href="#" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="#" ><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://github.com/DevJoaoVitorB" ><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+<br/>
+
+<div align="center">
+  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=DevJoaoVitorB&show_icons=true&theme=radical&bg_color=0000&border_color=0000">
+  <img width="41%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevJoaoVitorB&layout=compact&theme=radical&bg_color=0000&border_color=0000">
+</div>
+
+<br/>
+
+<div>
+  <h2>About Me</h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Student%20Light%20Skin%20Tone.png" alt="Man Student Light Skin Tone" width="25" height="25" /><strong>College Student</strong> </br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /><strong>Aspiring Developer</strong> </br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="25" height="25" /><strong>Game Fan and Future Game Developer!</strong> </br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" alt="Artist Palette" width="25" height="25" /><strong>Creative for the development of new project</strong>
+</div>
+
+<div>
+  <h2>My Stack</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,py,html,css,js,git">
+  </a>
+</div>
+
+<div>
+  <h2>Contact Me</h2>
+  <a href="mailto:bezerra.vitor@escolar.ifrn.edu.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="#" ><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
