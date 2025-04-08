@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Hi, I'm João Vitor Bezerra</h1>
-  <p align="left">I'm studying on the second semester in course <strong><em>Technology in Analysis and Development Systems</em></strong> at IFRN CNAT, Federal Institute of Education, Science and Technology of Rio Grande do Norte Natal Central. I have some skills in <strong><em>Programming</em></strong> and <strong><em>Web Development<strong><em>.</p>
+  <p align="left">I'm studying in course <strong><em>Technology in Analysis and Development Systems</em></strong> at IFRN CNAT, Federal Institute of Education, Science and Technology of Rio Grande do Norte Natal Central. I have some skills in <strong><em>Programming</em></strong> and <strong><em>Web Development<strong><em>.</p>
 </div>
 
 <br/>
@@ -23,7 +23,7 @@
 <div>
   <h2>My Stack</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,py,html,css,js,git">
+    <img src="https://skillicons.dev/icons?i=cs,py,html,css,js,git,unity">
   </a>
 </div>
 
