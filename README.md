@@ -23,7 +23,7 @@
 <div>
   <h2>My Stack</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,py,html,css,js,git,unity">
+    <img src="https://skillicons.dev/icons?i=cs,py,html,css,js,git,unity,django">
   </a>
 </div>
 
