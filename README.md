@@ -1,7 +1,8 @@
-<div>
+<figure>
   <img src="DevJoaoVitorBBanner.png">
-  <h3 align="center">Web Developer • Student • Future Game Developer</h3>
-</div>
+</figure>
+
+<h3 align="center">Web Developer • Student • Future Game Developer</h3>
 
 <br/>
 
