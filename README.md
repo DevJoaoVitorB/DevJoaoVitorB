@@ -24,7 +24,7 @@
 <div>
   <h2>My Stack</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=next,ts,tailwind,nodejs,express,py,django">
+    <img src="https://skillicons.dev/icons?i=html,css,js,next,ts,tailwind,nodejs,express,py">
   </a>
 </div>
 
