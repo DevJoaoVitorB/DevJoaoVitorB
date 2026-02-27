@@ -6,13 +6,6 @@
 
 <br/>
 
-<div align="center">
-  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=DevJoaoVitorB&show_icons=true&theme=radical&bg_color=0000&border_color=0000">
-  <img width="41%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevJoaoVitorB&layout=compact&theme=radical&bg_color=0000&border_color=0000">
-</div>
-
-<br/>
-
 <div>
   <h2>About Me</h2>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Student%20Light%20Skin%20Tone.png" alt="Man Student Light Skin Tone" width="25" height="25" /><strong>College Student</strong> </br>
