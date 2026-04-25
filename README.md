@@ -30,6 +30,6 @@
 
 <div>
   <h2>Contact Me</h2>
-  <a href="mailto:bezerra.vitor@escolar.ifrn.edu.br"><img src="https://skillicons.dev/icons?i=gmail"></a>
+  <a href="mailto:devjoaovitorb.s@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a>
   <a href="https://www.linkedin.com/in/devjoaovitorb" ><img src="https://skillicons.dev/icons?i=linkedin"></a>
 </div>
